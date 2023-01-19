@@ -1,0 +1,23 @@
+Recursion and loop both from cycle.
+1. What is Recursion?
+   Do repeat the things 
+HOW - Function call it self
+I  Create cycle using fn call itself
+
+to solve Recursion problems demo :
+identify the small problems
+puts it  in a cycle
+identify the processing logic
+stop the Recursion by applying the termination case or base case
+
+
+
+2. What is function?
+  fn means block of code
+  the block of code has some name and whenever we need it we just call it .
+
+3. What is loop?
+   Do repeat things(iteration)
+   i do based on some conditions
+note:-always create a call Stack
+identify the stack build and stack fall 

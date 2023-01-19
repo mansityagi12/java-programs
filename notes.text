@@ -1,0 +1,34 @@
+jdk install
+vscode
+
+java command trigger JRE
+JRE internally trigger JVM
+JRE-java runtime env.
+
+source code
+compile (java.c)
+javac<sourcefilename>.java
+u get byte code (.class),bytecode(classname)
+
+code run
+java<bytecode>/<classname>
+
+java file -pascal classname
+e.g - Mansityagi
+e.g -firstclass
+
+======================================================
+Recursion
+BackTracking
+
+Array 1D,2D and Strings
+Linkesd List
+Stack and Queue
+
+
+DP -Dynamic Progrmming
+
+Tree
+Graph
+Heap and HashTable
+BitMasking
